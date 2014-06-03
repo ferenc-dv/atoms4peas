@@ -4,7 +4,7 @@
   <title><![CDATA[atoms4peas]]></title>
   <link href="http://ferenc-dv.github.io/atoms4peas/atom.xml" rel="self"/>
   <link href="http://ferenc-dv.github.io/atoms4peas/"/>
-  <updated>2014-06-03T07:34:18-07:00</updated>
+  <updated>2014-06-03T07:35:13-07:00</updated>
   <id>http://ferenc-dv.github.io/atoms4peas/</id>
   <author>
     <name><![CDATA[Ferenc Dalnoki-Veress]]></name>
@@ -43,7 +43,7 @@ Don&#8217;t believe me, see <a href="http://www.youtube.com/watch?v=xxd_KlaCiNY"
 
 <p><img src="https://farm4.staticflickr.com/3914/14146060779_45ff6c3a49_o.jpg" title="Figure 1" alt="alt text" /></p>
 
-<h5>Figure 1: Graph showing the power-law relationship for the frequency of earthquakes as a function of intensity and for the displacement of people in the crowd. Left graph taken from &ldquo;The Physics of Earthquakes&rdquo; by Hiroo Kanamori and Emily E Brodsky (Rep. Prog. Phys. 67 (2004) 1429, 1496). The right graph extracted from Helbing et al, The Dynamics of Crowd Disasters: An Empirical Study, arXiv:physics/0701203v2.</h5>
+<h6>Figure 1: Graph showing the power-law relationship for the frequency of earthquakes as a function of intensity and for the displacement of people in the crowd. Left graph taken from &ldquo;The Physics of Earthquakes&rdquo; by Hiroo Kanamori and Emily E Brodsky (Rep. Prog. Phys. 67 (2004) 1429, 1496). The right graph extracted from Helbing et al, The Dynamics of Crowd Disasters: An Empirical Study, arXiv:physics/0701203v2.</h6>
 
 <p>The turbulent waves can produce such intense forces that the people in certain places are leaped great distances through the crowd. This is an artifact of the physics of fluid flow and has nothing to do with the mindset of the people involved in the incident. When the people in the crowd are pushed, they push against someone else and transmit the forces. What comes next, is more unfortunate physics, as these forces are transmitted through the crowd they can add up and it is only a matter of time until someone falls. This creates further unbalanced forces because now there is a region where the net forces come in a direction from which there is no opposing force keeping the person standing because the person in the direction of the force has fallen so that they are pushed from behind, but not anymore from the front, such that they are either forced to step on fallen persons (&ldquo;trampling&rdquo;) or they will also fall. This creates a domino effect where people near to the people who have fallen, fall as well, causing more people to be trampled. It is well known that people who are trampled, die of suffocation because of the weight of others on top of them prevents them from breathing.</p>
 
