@@ -4,7 +4,7 @@
   <title><![CDATA[atoms4peas]]></title>
   <link href="http://ferenc-dv.github.io/atoms4peas/atom.xml" rel="self"/>
   <link href="http://ferenc-dv.github.io/atoms4peas/"/>
-  <updated>2014-06-03T07:22:36-07:00</updated>
+  <updated>2014-06-03T07:25:55-07:00</updated>
   <id>http://ferenc-dv.github.io/atoms4peas/</id>
   <author>
     <name><![CDATA[Ferenc Dalnoki-Veress]]></name>
@@ -35,7 +35,7 @@
 <p>Helbing <em>et al</em>. recognized that similar instabilities happen in crowds as well. When the density of people increases past 2-4/m2 then the crowd starts to behave rather like what are known as phantom traffic jams. These are traffic jams that are produced because one person moves a little slower than the rest of traffic creating a shock wave slowing down all the drivers downstream who are trying to correct for the change in speed. In another <a href="http://arxiv.org/abs/physics/0701203">publication</a>, Helbing, Johansson and Al-Abideen carefully studied videos taken of crowd motion during the annual pilgrimidge to the Hajj observed stop-and-go movement similar to that of phantom traffic jams but they do not seem to have the same cause. In fact, it seems that this type of flow behavior is expected based on the theory of granular flow near a bottleneck (see: <a href="http://arxiv.org/abs/physics/0610151">D. Helbing et al, Analytical Approach to Continuous and Intermittent Bottleneck Flows, <em>Phys. Rev. Lett.</em>, 112, 068103, 2008</a>). These may be caused by competing interests to reach for a location away from the high densities and to reach an exit.  When the crowd reaches a critical density of 7/m2 (akin to the Reynolds number in fluid flow) the crowd exhibits a motion similar to turbulent flow. At this density the bodies can&rsquo;t help but touch and physical forces are transmitted from one person to the next a process which is unavoidable for the people bearing the forces. The forces can come from all directions and can form what Helbing et al call &ldquo;force chains&rdquo;, essentially shock waves which reverberate through the crowd.</p>
 
 <dl><blockquote>
-Don&#8217;t believe me, see [these](http://www.youtube.com/watch?v=xxd_KlaCiNY) mesmerizing videos of the Duisberg Love Parade incident where 21 people died because of crowd turbulence and ultimately improperly handling the crowd. See also the [geo-tagged](http://loveparadevideos.heroku.com/) portal of videos related to this disaster.
+Don&#8217;t believe me, see <a href="http://www.youtube.com/watch?v=xxd_KlaCiNY"> these </a> mesmerizing videos of the Duisberg Love Parade incident where 21 people died because of crowd turbulence and ultimately improperly handling the crowd. See also the <a href="http://loveparadevideos.heroku.com/"> geo-tagged </a> portal of videos related to this disaster.
 </blockquote></dl>
 
 
