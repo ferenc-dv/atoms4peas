@@ -4,7 +4,7 @@
   <title><![CDATA[atoms4peas]]></title>
   <link href="http://ferenc-dv.github.io/atoms4peas/atom.xml" rel="self"/>
   <link href="http://ferenc-dv.github.io/atoms4peas/"/>
-  <updated>2014-06-02T23:32:13-07:00</updated>
+  <updated>2014-06-03T00:10:20-07:00</updated>
   <id>http://ferenc-dv.github.io/atoms4peas/</id>
   <author>
     <name><![CDATA[Ferenc Dalnoki-Veress]]></name>
@@ -14,15 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Crowds and Earthquakes]]></title>
+    <title type="html"><![CDATA[What Do Crowds, Earthquakes, and Water Flow Have in Common?]]></title>
     <link href="http://ferenc-dv.github.io/atoms4peas/blog/2014/05/17/crowds-and-earthquakes/"/>
     <updated>2014-05-17T07:27:26-07:00</updated>
     <id>http://ferenc-dv.github.io/atoms4peas/blog/2014/05/17/crowds-and-earthquakes</id>
-    <content type="html"><![CDATA[<h1>What do crowds, earthquakes, and water flow have in common? Push from linux at 11:20</h1>
-
-<hr />
-
-<h2>Crowd Disasters</h2>
+    <content type="html"><![CDATA[<h2>Crowd Disasters</h2>
 
 <p>One of the important topics we would like to discuss in this blog is how ideas from complexity science become relevant to arms control and nonproliferation. Sometimes the relevance may not be immediately obvious to us but maybe it will in the future.</p>
 
