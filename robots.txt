@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://ferenc-dv.github.io/atoms4peas/sitemap.xml 
